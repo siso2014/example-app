@@ -3,7 +3,7 @@
 @section('content')
     <div class="container w-25 border p-4 mt-4">
         <form>
-            <div class="mb-3">
+            <div class="mb-4">
                 <label for="title" class="form-label">Nombre de Sucursal</label>
                 <input type="text" class="form-control" name="title"
             </div>
